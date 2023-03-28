@@ -1,0 +1,7 @@
+*.dvi
+*.fdb_latexmk
+*.fls
+*.out
+*.pdf
+*.tex
+states
